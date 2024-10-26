@@ -1,6 +1,9 @@
 ## System Setup
 
 I build all of my profiles on PC using an emulator, keyboard, and mouse.  
+
+![Untitled](https://github.com/user-attachments/assets/bd47c546-5520-4cae-86da-d34020fe1099)
+
 There's many benefits to this:
 
 * Larger screen size
