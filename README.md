@@ -8,9 +8,9 @@
 
 #### Guides
 
+* [How to do Backgrounds](guides/how_to_do_backgrounds.md)
 * [My Software Setup](system_setup/system_setup.md)
 * [My Workflow](system_setup/workflow.md)
-* [How to do Backgrounds](guides/how_to_do_backgrounds.md)
 
 #### My Profiles  
 
