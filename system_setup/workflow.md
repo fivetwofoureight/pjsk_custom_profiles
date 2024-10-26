@@ -76,4 +76,13 @@ PreserveAspectRatio=1
 
 * The Color Picker allows you to quickly copy, adjust, and paste colors from anywhere on the screen.
 * This is helpful when establishing a color palette or for matching object colors.
-* A website which can [calculate variations or complementary colors]((https://colorkit.co/color/c0baec/)) can be helpful too.
+* A website which can [calculate variations or complementary colors](https://colorkit.co/color/c0baec/) can be helpful too.
+
+## Visual Studio Code
+
+![image](https://github.com/user-attachments/assets/3d296789-8c76-4aa0-baf5-25b167629e69)
+
+* It's nice to have a text editor with a dark theme and syntax highlighting for modifying Rainmeter files.
+* I tend to save code snippets and commonly-used symbols in a text file as well.
+* As mentioned in [@sunnisu's Custom Profile Guide](https://docs.google.com/document/d/1QuoVLw477ax07gcBDnvVHX4EncSNXYAl-m3w8V-2EGw/edit?usp=sharing), the `︶` character is useful when making freeform art and cutouts.
+* I always have that one available with `<#FFF><scale=1.0>︶`, which does coloring and stretching.
