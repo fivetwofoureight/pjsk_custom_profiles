@@ -9,6 +9,7 @@
 #### Guides
 
 * [My Software Setup](system_setup/system_setup.md)
+* [My Workflow](system_setup/workflow.md)
 
 #### My Profiles  
 
