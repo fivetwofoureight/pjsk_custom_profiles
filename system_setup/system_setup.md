@@ -20,7 +20,7 @@ There's many benefits to this:
 * SEGA/ColoPale do not provide offical support for emulators.
 * I cannot vouch for the security of any specific emulator.
 * Moving from your main device to the emulator will count as a device transfer.
-    *  Keep the [T300 Device Transfer Limit in mind](https://support-pjsekai.sega.com/hc/en-us/articles/26712908149273-Unable-to-account-transfer-after-getting-a-message-that-says-Account-Transfer-Limit)!
+    *  Keep the [T300 Device Transfer Limit](https://support-pjsekai.sega.com/hc/en-us/articles/26712908149273-Unable-to-account-transfer-after-getting-a-message-that-says-Account-Transfer-Limit) in mind.
 * If you are using transfer codes, I suggest having backups in at least 3 places.
     * ex: in the Notes app, a Google Doc, and a `.txt` file on pc
     * Losing your transfer code may result in inability to access to your account.
