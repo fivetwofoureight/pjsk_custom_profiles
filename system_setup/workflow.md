@@ -37,6 +37,7 @@ There's a lot of settings that you can tweak, but the relevant ones for building
 * There's 3 modes, but the default fullscreen mode is what I use the most often.
 * At the highest magnification levels, you can align objects with single-pixel percision.
     * Using a mouse rather than a touch allows you to cleanly release objects and not have a finger in the way.
+* I suggest going to Start > Settings > Ease of Access > Magnifier and disabling `Smooth edges of images and text` to have a more accurate view.
 
 ## Rainmeter
 
