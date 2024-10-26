@@ -8,7 +8,7 @@ An effective workflow will allow you to both:
 As mentioned in [System Setup](system_setup/system_setup.md), I use:
 
 * [Bluestacks 5](#Bluestacks-5)
-* Windows Magnifier
+* [Windows Magnifier](#Windows-Magnifier)
 * Rainmeter
 * Windows PowerToys Color Picker
 * VSCode
@@ -37,3 +37,35 @@ There's a lot of settings that you can tweak, but the relevant ones for building
 * There's 3 modes, but the default fullscreen mode is what I use the most often.
 * At the highest magnification levels, you can align objects with single-pixel percision.
     * Using a mouse rather than a touch allows you to cleanly release objects and not have a finger in the way.
+
+## Rainmeter
+
+![image](https://github.com/user-attachments/assets/a1bffa66-b28b-4eca-9772-788f8d0d1a38)
+
+* Rainmeter is a utility that lets you create custom widgets on Windows.
+* I use it to show guidelines or shapes to trace out.
+* The simplest way to display an image is with this code:
+
+```
+[Rainmeter]
+Update=-1
+
+[MeterName]
+Meter=Image
+ImageName=16_9_spiral.png
+H=450
+PreserveAspectRatio=1
+```
+
+* Place your image file in the same skin directory as the `.ini` and update its `ImageName` and `H=` values in the `.ini`.
+* In the Manage Rainmeter screen, I set the following Skin options:
+    * Position: `Stay topmost`
+    * Transparency: `0%` to `50%` depending on use case
+    * ☑️ Click through
+    * ☑️ Draggable
+    * 🟦 Keep on screen
+    * ☑️ Save position
+    * 🟦 Snap to edges
+ * With `Click through` enabled, you have to click out of Bluestacks, then CTRL + Click + Drag to move the image.
+ * This prevents the guides from accidentally being moved while moving objects.
+ * As a bonus, lines in the `.ini` with a `#` in front will be treated as comments, so I save symbols and text for my profile here to easily copy-paste them.
