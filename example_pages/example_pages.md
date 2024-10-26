@@ -14,3 +14,8 @@ Here are some Custom Profile pages that I've done, either for events I've tiered
 ![screenShot_06_35_07](https://github.com/user-attachments/assets/aa506a81-d834-4c56-bec3-e77a43f856d8)
 ![screenShot_06_35_01](https://github.com/user-attachments/assets/92539556-271b-46c2-8936-b923a1f70802)
 ![screenShot_06_34_55](https://github.com/user-attachments/assets/2c856094-8510-42e6-80b7-189a0742d1f7)
+
+#### Older Profiles  
+![mizuki_os](https://github.com/user-attachments/assets/ec271f51-e1d5-44f8-9df9-22fca9f956ce)
+![ena_phone](https://github.com/user-attachments/assets/d67031ab-d9fb-481b-bf71-27cdb9177caa)
+![get_up](https://github.com/user-attachments/assets/b74444ab-125d-4318-b826-a588e739faae)
