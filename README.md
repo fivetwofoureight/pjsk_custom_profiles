@@ -16,4 +16,5 @@
 
 #### Inspo / Content Creators
 
-* [익명K on Youtube](https://www.youtube.com/@%EC%9D%B5%EB%AA%85K/videos)
+* [@익명K on Youtube](https://www.youtube.com/@%EC%9D%B5%EB%AA%85K/videos)
+* [@kagu_rate on Youtube](https://www.youtube.com/@kagu_rate/shorts)
