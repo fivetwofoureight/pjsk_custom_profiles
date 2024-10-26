@@ -11,7 +11,7 @@ As mentioned in [System Setup](system_setup/system_setup.md), I use:
 * [Windows Magnifier](#Windows-Magnifier)
 * [Rainmeter](#Rainmeter)
 * [PowerToys Color Picker](#PowerToys-Color-Picker)
-* VSCode
+* [Visual Studio Code](#Visual-Studio-Code)
 
 ## Bluestacks 5
 
