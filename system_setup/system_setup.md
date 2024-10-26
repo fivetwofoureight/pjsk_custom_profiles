@@ -37,7 +37,5 @@ There's many benefits to this:
 * Windows PowerToys
     * [Install Guide](https://learn.microsoft.com/en-us/windows/powertoys/install)
     * [Color Picker Guide](https://learn.microsoft.com/en-us/windows/powertoys/color-picker)
-* Any text editor
-    *  [VSCode](https://code.visualstudio.com/)
-    *  Notepad
-    *  Google Docs
+* Visual Studio Code
+    *  [Official Site](https://code.visualstudio.com/)
