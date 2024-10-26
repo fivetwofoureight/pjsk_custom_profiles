@@ -9,8 +9,8 @@ As mentioned in [System Setup](system_setup/system_setup.md), I use:
 
 * [Bluestacks 5](#Bluestacks-5)
 * [Windows Magnifier](#Windows-Magnifier)
-* Rainmeter
-* Windows PowerToys Color Picker
+* [Rainmeter](#Rainmeter)
+* [PowerToys Color Picker](#PowerToys-Color-Picker)
 * VSCode
 
 ## Bluestacks 5
@@ -69,3 +69,11 @@ PreserveAspectRatio=1
  * With `Click through` enabled, you have to click out of Bluestacks, then CTRL + Click + Drag to move the image.
  * This prevents the guides from accidentally being moved while moving objects.
  * As a bonus, lines in the `.ini` with a `#` in front will be treated as comments, so I save symbols and text for my profile here to easily copy-paste them.
+
+## PowerToys Color Picker
+
+![image](https://github.com/user-attachments/assets/ec6658ca-aaf7-4ebb-894b-ce306de46a1a)
+
+* The Color Picker allows you to quickly copy, adjust, and paste colors from anywhere on the screen.
+* This is helpful when establishing a color palette or for matching object colors.
+* A website which can [calculate variations or complementary colors]((https://colorkit.co/color/c0baec/)) can be helpful too.
