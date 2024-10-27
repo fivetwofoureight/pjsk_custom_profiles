@@ -9,6 +9,7 @@
 #### Guides
 
 * [How to do Backgrounds](guides/how_to_do_backgrounds.md)
+* [How to Build Shapes](guides/how_to_build_shapes.md)
 * [My Software Setup](system_setup/system_setup.md)
 * [My Workflow](system_setup/workflow.md)
 
