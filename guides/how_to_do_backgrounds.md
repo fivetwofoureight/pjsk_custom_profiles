@@ -5,7 +5,7 @@ There's a few ways to do this, but I'd like to highlight 3 simple approaches tha
 
 * [Solid Color Background](#Solid-Color-Background)
 * [Images as Background](#Images-as-Background)
-* Patterns as Background
+* [Patterns as Background](#Patterns-as-Background)
 
 ## Solid Color Background
 
@@ -68,3 +68,50 @@ a
 * You now have an image background but can still have readable text.
 
 ![image](https://github.com/user-attachments/assets/763f6af8-a29d-4748-bf7c-82e22e6019ce)
+
+## Patterns as Background
+
+* This cute background is often seen across custom profiles and works with any color scheme
+* First, create a text object with this text:
+
+```
+<scale=60><mark=#000000AA><alpha=#00>a
+```
+![image](https://github.com/user-attachments/assets/5ae5ed5f-c568-49ab-adbc-d07ffefe1962)
+
+* Set the [hex color code](https://htmlcolorcodes.com/), which is `#000000`, to your desired color
+* Set the [hex opacity code](https://davidwalsh.name/hex-opacity), which is `AA`, to your desired opacity
+
+![image](https://github.com/user-attachments/assets/5f78f61f-e3c3-4c8d-a767-407622d0f8e6)
+
+* Set the width of the line using `Font Size`
+* Duplicate the lines and arrage them to form the horizontal stripes
+
+![image](https://github.com/user-attachments/assets/f63afe60-299e-410c-876d-ad40b4066b4a)
+
+* Duplicate the lines again, turning them vertically, and adjust the hex color, hex opacity, and width if desired
+
+![image](https://github.com/user-attachments/assets/35908cf4-f7fb-4b6f-8c5f-14351aff8d1b)
+
+* Create a text object with this text:
+
+```
+<scale=60><#9cb3e1AA><cspace=-1em>__
+```
+
+* Set the [hex color code](https://htmlcolorcodes.com/), which is `#000000`, to your desired color
+* Set the [hex opacity code](https://davidwalsh.name/hex-opacity), which is `AA`, to your desired opacity
+* Set the outline color to Black, White, or a similar color to the line.
+* Set the thickness of the line using `Font Size` and set `Display` to the centered option.
+
+![image](https://github.com/user-attachments/assets/79030693-b2e4-4bf2-851f-a9bf151ddc99)
+
+* Duplicate, rotate, and arrange however you like.
+
+![image](https://github.com/user-attachments/assets/4b9bd168-ccbc-4477-94db-b031da563c92)
+
+* You can use the [Solid Color text object](#Solid-Color-Background) to add a base color as well.
+* Now you have a patterned background that works well with photos, notebooks, and decorations.
+
+![image](https://github.com/user-attachments/assets/737bb31c-83cc-4b86-b9ea-88a3dd9b8e83)
+
