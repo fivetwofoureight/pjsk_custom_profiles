@@ -96,7 +96,7 @@ a
 * Create a text object with this text:
 
 ```
-<scale=60><#9cb3e1AA><cspace=-1em>__
+<scale=60><#000000AA><cspace=-1em>__
 ```
 
 * Set the [hex color code](https://htmlcolorcodes.com/), which is `#000000`, to your desired color
