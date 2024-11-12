@@ -23,3 +23,4 @@
 * [@익명K on YouTube](https://www.youtube.com/@%EC%9D%B5%EB%AA%85K/videos)
 * [@kagu_rate on YouTube](https://www.youtube.com/@kagu_rate/shorts)
 * [@torte1758 on YouTube](https://www.youtube.com/@torte1758/featured)
+* [@hatsufuku_nayuki on YouTube](https://www.youtube.com/@hatsufuku_nayuki)
