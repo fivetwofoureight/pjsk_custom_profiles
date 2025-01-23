@@ -13,6 +13,7 @@
 * [How to Build Shapes](guides/how_to_build_shapes.md)
 * [My Software Setup](system_setup/system_setup.md)
 * [My Workflow](system_setup/workflow.md)
+* [About Canvas Sizes](guides/choosing_a_canvas_size.md)
 
 #### My Profiles  
 
